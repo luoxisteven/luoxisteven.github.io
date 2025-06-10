@@ -10,19 +10,20 @@
   <link rel="shortcut icon" href="/favicon/favicon.ico">
   <title>StevenLuo</title>
   
-  <!-- Single Page Apps for GitHub Pages 脚本 -->
+  <!-- 修复后的 SPA 脚本 -->
   <script type="text/javascript">
-    // Single Page Apps for GitHub Pages
-    // MIT License
-    // https://github.com/rafgraph/spa-github-pages
     (function(l) {
       if (l.search[1] === '/' ) {
         var decoded = l.search.slice(1).split('&').map(function(s) { 
           return s.replace(/~and~/g, '&')
         }).join('?');
-        window.history.replaceState(null, null,
-            l.pathname.slice(0, -1) + decoded + l.hash
-        );
+        
+        // 只有当 decoded 不为空且不是根路径时才进行替换
+        if (decoded && decoded !== '?/') {
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
       }
     }(window.location))
   </script>
