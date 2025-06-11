@@ -2,9 +2,9 @@
 - **生效日期**: 2024年12月4日  
 - **更新日期**: 2025年5月22日
 
-欢迎访问 [**xiluo.net**](https://xiluo.net)（下称“本网站”）。“xiluo.net”、“本网站”指任何域名包含“xiluo.net”的网站，包括但不限于其子域名（例如 api.xiluo.net、www.xiluo.net ）、所有位于该域名下的 URL 路径（例如 xiluo.net/* 、www.xiluo.net/* 、api.xiluo.net/* ），以及其中提供的任何相关服务或内容。
+欢迎访问 [**xiluo.net**](https://xiluo.net)（下称“本网站”）。"xiluo.net"、"luoxisteven.github.io"以及"本网站"或"这些网站"是指域名包含"xiluo.net"或"luoxisteven.github.io"的任何网站，包括但不限于其子域名（如：api.xiluo.net、www.xiluo.net），此类域名下的所有URL路径（如：xiluo.net/*、www.xiluo.net/*、api.xiluo.net/*、luoxisteven.github.io/*），以及其中提供的任何相关服务或内容。
 
-本隐私政策解释了您访问本网站时，我们如何收集、使用、披露和保护您的信息。通过访问、浏览或使用本网站的任何部分，即表示您已阅读、理解并同意受[条款与条件](https://xiluo.net/md/cn/terms)和[隐私政策](https://xiluo.net/md/cn/privacy)的约束。如果不同意条款与条件以及本隐私政策，您必须立即停止访问本网站。    
+本隐私政策解释了您访问本网站时，我们如何收集、使用、披露和保护您的信息。通过访问、浏览或使用本网站的任何部分，即表示您已阅读、理解并同意受[条款与条件](terms)和[隐私政策](privacy)的约束。如果不同意条款与条件以及本隐私政策，您必须立即停止访问本网站。    
 
 ## 1. 我们收集的信息   
 我们可能收集以下类型的信息：    

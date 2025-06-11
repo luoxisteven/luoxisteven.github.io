@@ -4,9 +4,9 @@
 - 本网站是我的兴趣爱好之一，我会尽量保持内容的更新，特别是笔记部分。把自己的笔记整理起来放到网站上，也是一种不断学习的动力来源。网站的Markdown笔记部分是我不满足市面的Markdown阅读器所设计的。后面也会加入一些效率部件，如text-only的新闻，让我在上班的时候利用深色模式偶尔摸摸鱼。
 
 ### 联系方式
+- **商务邮箱：** [**steven@xiluo.net**](mailto:steven@xiluo.net)
 - **个人网站：** [**xiluo.net**](https://xiluo.net)
 - **永久镜像：** [**luoxisteven.github.io**](https://luoxisteven.github.io)
-- **商务邮箱：** [**steven@xiluo.net**](mailto:steven@xiluo.net)
 - **GitHub账号：** [**@luoxisteven**](https://github.com/luoxisteven)  
 <!-- - **LinkedIn：** [**@Xi Luo**](https://www.linkedin.com/in/xi-luo-6259a1208/) -->
 

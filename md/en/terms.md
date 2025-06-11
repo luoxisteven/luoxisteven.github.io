@@ -3,13 +3,13 @@
 - **Effective Date**: 04 December 2024  
 - **Last Updated**: 22 May 2025  
 
-Welcome to [**xiluo.net**](https://xiluo.net) (hereinafter referred to as "this Website"). These Terms and Conditions ("Terms") govern your access to and use of this Website. This Website is operated by **Xi Luo** ("we," "us," or "our").  “You”, “your”, or “the user” refers to any individual who accesses, browses, or uses this Website in any manner.
+Welcome to [**xiluo.net**](https://xiluo.net) and [**luoxisteven.github.io**](https://luoxisteven.github.io) (hereinafter referred to as "this Website" or "these Websites"). These Terms and Conditions ("Terms") govern your access to and use of these Websites. These Websites are operated by **Xi Luo** ("we," "us," or "our").  "You", "your", or "the user" refers to any individual who accesses, browses, or uses these Websites in any manner.
 
-"xiluo.net" and "this Website" refer to any website whose domain name includes “xiluo.net”, including but not limited to its subdomains (e.g., api.xiluo.net , www.xiluo.net ), all URL paths under such domains (e.g., xiluo.net/* , www.xiluo.net/* , api.xiluo.net/* ), and any associated services or content provided therein.
+"xiluo.net", "luoxisteven.github.io", and "this Website" or "these Websites" refer to any website whose domain name includes "xiluo.net" or "luoxisteven.github.io", including but not limited to their subdomains (e.g., api.xiluo.net, www.xiluo.net), all URL paths under such domains (e.g., xiluo.net/*, www.xiluo.net/*, api.xiluo.net/*, luoxisteven.github.io/*), and any associated services or content provided therein.
 
-By accessing, browsing, or using any part of this Website, you acknowledge that you have read, understood, and agreed to be bound by [these Terms and Conditions](https://xiluo.net/md/en/terms) and [our Privacy Policy](https://xiluo.net/md/en/privacy). If you do not agree to these Terms and Privacy Policy, you must immediately stop using this Website.
+By accessing, browsing, or using any part of these Websites, you acknowledge that you have read, understood, and agreed to be bound by [these Terms and Conditions](terms) and [our Privacy Policy](privacy). If you do not agree to these Terms and Privacy Policy, you must immediately stop using these Websites.
 
-For any questions, concerns, or inquiries regarding these Terms and Conditions, our Privacy Policy, or any other matters related to this Website, please contact us at **steven@xiluo.net**.
+For any questions, concerns, or inquiries regarding these Terms and Conditions, our Privacy Policy, or any other matters related to these Websites, please contact us at **steven@xiluo.net**.
 
 ## 1. Website Use  
 - This Website is provided for informational purposes only.  
@@ -43,7 +43,7 @@ For any questions, concerns, or inquiries regarding these Terms and Conditions, 
 - The presence of third-party links on this Website does not imply endorsement or recommendation of these third-party websites by us.  
 
 ## 6. Privacy  
-- Your use of this Website is also governed by our [Privacy Policy](https://xiluo.net/md/en/privacy), which is incorporated into these Terms by reference.  
+- Your use of this Website is also governed by our [Privacy Policy](privacy), which is incorporated into these Terms by reference.  
 - We may use cookies and similar technologies to collect information about how you use this Website.  
 - You can manage your cookie preferences through your browser settings at any time.  
 

@@ -2,9 +2,9 @@
 - **Effective Date**: 04 December 2024  
 - **Last Updated**: 22 May 2025
 
-Welcome to [**xiluo.net**](https://xiluo.net) (hereinafter referred to as "this Website"). The terms "xiluo.net" and "this Website" refer to any website whose domain name includes “xiluo.net”, including but not limited to its subdomains (e.g., api.xiluo.net , www.xiluo.net ), all URL paths under such domains (e.g., xiluo.net/* , www.xiluo.net/* , api.xiluo.net/* ), and any associated services or content provided therein.
+Welcome to [**xiluo.net**](https://xiluo.net) and [**luoxisteven.github.io**](https://luoxisteven.github.io) (hereinafter referred to as "this Website"). "xiluo.net", "luoxisteven.github.io", and "this Website" or "these Websites" refer to any website whose domain name includes "xiluo.net" or "luoxisteven.github.io", including but not limited to their subdomains (e.g., api.xiluo.net, www.xiluo.net), all URL paths under such domains (e.g., xiluo.net/*, www.xiluo.net/*, api.xiluo.net/*, luoxisteven.github.io/*), and any associated services or content provided therein.
 
-This Privacy Policy explains how we collect, use, disclose, and protect your information when you visit xiluo.net. By accessing, browsing, or using any part of this Website, you acknowledge that you have read, understood, and agreed to be bound by [our Terms and Conditions](https://xiluo.net/md/en/terms) and [this Privacy Policy](https://xiluo.net/md/en/privacy). If you do not agree to our Terms and this Private Policy, you must immediately stop using this Website.
+This Privacy Policy explains how we collect, use, disclose, and protect your information when you visit xiluo.net. By accessing, browsing, or using any part of this Website, you acknowledge that you have read, understood, and agreed to be bound by [our Terms and Conditions](terms) and [this Privacy Policy](privacy). If you do not agree to our Terms and this Private Policy, you must immediately stop using this Website.
 
 ## 1. Information We Collect
 We may collect the following types of information:

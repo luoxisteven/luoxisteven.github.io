@@ -3,11 +3,11 @@
 - **生效日期**：2024年12月4日  
 - **最后更新日期**：2025年5月22日  
 
-欢迎访问 [**xiluo.net**](https://xiluo.net)（下称“本网站”）。本《条款与条件》（“条款”）适用于您访问和使用本网站。网站由 **Xi Luo** 运营（以下称为“我们”）。“您”、“您的”或“用户”是指以任何方式访问、浏览或使用本网站的任何个人。
+欢迎访问 [**xiluo.net**](https://xiluo.net) 和 [**luoxisteven.github.io**](luoxisteven.github.io)（下称“本网站”）。本《条款与条件》（“条款”）适用于您访问和使用本网站。网站由 **Xi Luo** 运营（以下称为“我们”）。“您”、“您的”或“用户”是指以任何方式访问、浏览或使用本网站的任何个人。
 
-“xiluo.net”、“本网站”指任何域名包含“xiluo.net”的网站，包括但不限于其子域名（例如 api.xiluo.net、www.xiluo.net ）、所有位于该域名下的 URL 路径（例如 xiluo.net/* 、www.xiluo.net/* 、api.xiluo.net/* ），以及其中提供的任何相关服务或内容。
+"xiluo.net"、"luoxisteven.github.io"以及"本网站"或"这些网站"是指域名包含"xiluo.net"或"luoxisteven.github.io"的任何网站，包括但不限于其子域名（如：api.xiluo.net、www.xiluo.net），此类域名下的所有URL路径（如：xiluo.net/*、www.xiluo.net/*、api.xiluo.net/*、luoxisteven.github.io/*），以及其中提供的任何相关服务或内容。
 
-通过访问、浏览或使用本网站的任何部分，即表示您已阅读、理解并同意受[本条款](https://xiluo.net/md/cn/terms)与[隐私政策](https://xiluo.net/md/cn/privacy)的约束。如果不同意本条款以及隐私政策，您必须立即停止访问本网站。
+通过访问、浏览或使用本网站的任何部分，即表示您已阅读、理解并同意受[本条款](terms)与[隐私政策](privacy)的约束。如果不同意本条款以及隐私政策，您必须立即停止访问本网站。
 
 如果您对本条款与条件、我们的隐私政策或与本网站相关的任何其他事项有任何疑问、关注或咨询，欢迎通过邮箱 **steven@xiluo.net** 与我们联系。
 
@@ -43,7 +43,7 @@
 - 本网站上的第三方链接不代表我们对该第三方网站的认可或推荐。  
 
 ## 6. 隐私  
-- 您对本网站的使用同时受我们的[隐私政策](https://xiluo.net/md/cn/privacy)约束，该政策被纳入本条款。  
+- 您对本网站的使用同时受我们的[隐私政策](privacy)约束，该政策被纳入本条款。  
 - 我们可能使用 Cookie 或类似技术收集您使用本网站的信息。  
 - 您可随时通过浏览器设置管理 Cookie 偏好。  
 
