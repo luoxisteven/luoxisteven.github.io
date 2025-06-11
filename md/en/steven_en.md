@@ -4,6 +4,7 @@
 
 ### Contact me
 - **Personal Website:** [**xiluo.net**](https://xiluo.net)  
+- **Parmanent Mirror** [**luoxisteven.github.io**](https://luoxisteven.github.io)
 - **Business Email:** [**steven@xiluo.net**](mailto:steven@xiluo.net)
 - **Github Account:** [**@luoxisteven**](https://github.com/luoxisteven)  
 <!-- - **Linkedin:** [**@Xi Luo**](https://www.linkedin.com/in/xi-luo-6259a1208/) -->

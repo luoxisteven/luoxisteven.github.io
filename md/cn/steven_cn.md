@@ -5,6 +5,7 @@
 
 ### 联系方式
 - **个人网站：** [**xiluo.net**](https://xiluo.net)
+- **永久镜像：** [**luoxisteven.github.io**](https://luoxisteven.github.io)
 - **商务邮箱：** [**steven@xiluo.net**](mailto:steven@xiluo.net)
 - **GitHub账号：** [**@luoxisteven**](https://github.com/luoxisteven)  
 <!-- - **LinkedIn：** [**@Xi Luo**](https://www.linkedin.com/in/xi-luo-6259a1208/) -->
