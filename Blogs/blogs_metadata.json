@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5a3e2a60-efdd-40ce-a0db-2a024dca6662",
+    "en_title": "Moving to Sydney",
+    "cn_title": "搬家",
+    "author": "luoxi",
+    "publish_date": "2025-05-28T12:17:14.1518375Z",
+    "last_updated_date": "2025-05-28T14:02:03.5116702Z",
+    "en_summary": "During nearly a year after graduation, I was busy with internships, sending out resumes, preparing for interviews, interviewing, and moving from one place to another. The progress of developing this website actually didn’t stop during these months, though there were fewer updates on the frontend. Recently, I’ve been organizing the...",
+    "cn_summary": "在毕业后的近一年时间里，我都在实习，投简历，准备面试，面试和搬家的过程中。搭建这个网站的进程其实这几个月也并没有拉下，前端的更新可能少了点。近期我对代码进行了整理，尽可能对代码进行模块化，每个代码文件尽量少于300行代码，整理代码其实也是为未来开发打好基础。 后端增加了很多安全措施，包括CloudF...",
+    "visible": false
+  },
+  {
+    "id": "b5a7e17c-8071-4d23-90e2-7ffa47b0c52d",
+    "en_title": "Looking Back 2024",
+    "cn_title": "回望2024",
+    "author": "luoxi",
+    "publish_date": "2025-01-01T10:48:59.191957Z",
+    "last_updated_date": "2025-01-07T14:23:46.794133Z",
+    "en_summary": "I hope writing a blog can help me live a better life. I’ve never really been someone who knows how to enjoy life. By writing a blog and recording a more refined lifestyle, I can motivate and push myself to live better in order to write more blogs. Reflecting on...",
+    "cn_summary": "我希望写博客能让我把生活过得更好， 我不是一个很懂得生活的人，一直都不是， 所以我尝试着把自己架起来， push自己把自己的生活过得更好。  回顾2024， 发现自己在三个月内往成都跑了四趟， 三个月我都不知道被拉扯了多少次， 但还是我很感激在这一小段旅程让我成长。    Smile Plz  很多...",
+    "visible": true
+  },
+  {
+    "id": "5086d93c-b6af-4e34-b037-6f4438bd1f86",
+    "en_title": "My First Blog",
+    "cn_title": "第一篇Blog",
+    "author": "luoxi",
+    "publish_date": "2024-12-16T10:57:16.895651Z",
+    "last_updated_date": "2025-01-02T13:30:59.932578Z",
+    "en_summary": "The purpose of this website is multi-fold: First and foremost, this website serves as a platform to showcase my technical skills, with the ultimate goal of securing better job opportunities. Secondly, during those long, quiet nights when I have no particular hobby to pass the time, I often find myself...",
+    "cn_summary": "做这个网站的目的， 其一是为了展示自己的技术能力，获得更好的工作； 其二是闲下来的时候，找不到度过长夜的兴趣爱好； 再者，现在打电子游戏已经满足不了我了， 虽然时常打几把王者荣耀，但是打几把就来气。 如果一个爱好，既可以提升自己，又可以当作消遣，那肯定是最好的了。 其次就是，自己有很多梦想要实现，这...",
+    "visible": true
+  }
+]
