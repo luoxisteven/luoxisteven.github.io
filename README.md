@@ -1,6 +1,9 @@
 # luoxisteven.github.io
 
-- Website: [luoxisteven.github.io](https://luoxisteven.github.io)  
+- Website: [luoxisteven.github.io](https://luoxisteven.github.io)
+
+---
+
 - This site: [luoxisteven.github.io](https://luoxisteven.github.io) is a **permanent mirror** of [xiluo.net](https://xiluo.net), built upon the currently **free and reliable GitHub Pages** platform.  
 - While xiluo.net uses **dynamic APIs** to fetch blog content, luoxisteven.github.io stores blog data as **static files**. I've built a pipeline that automatically pushes static blog updates here whenever I update my main blog. The dynamic API access on xiluo.net is also preserved.  
 - If one day I pass away, this site will still be running. Love you!
