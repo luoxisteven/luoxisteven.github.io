@@ -1,16 +1,18 @@
 # Privacy Policy
 - **Effective Date**: 04 December 2024  
-- **Last Updated**: 22 May 2025
+- **Last Updated**: 28 Jun 2025
 
-Welcome to [**xiluo.net**](https://xiluo.net) and [**luoxisteven.github.io**](https://luoxisteven.github.io) (hereinafter referred to as "this Website"). "xiluo.net", "luoxisteven.github.io", and "this Website" or "these Websites" refer to any website whose domain name includes "xiluo.net" or "luoxisteven.github.io", including but not limited to their subdomains (e.g., api.xiluo.net, www.xiluo.net), all URL paths under such domains (e.g., xiluo.net/*, www.xiluo.net/*, api.xiluo.net/*, luoxisteven.github.io/*), and any associated services or content provided therein.
+Welcome to [**xiluo.net**](https://xiluo.net) and [**luoxisteven.github.io**](https://luoxisteven.github.io) (hereinafter referred to as "our Websites"). "xiluo.net", "luoxisteven.github.io", and "our Websites" refer to any website whose domain name includes "xiluo.net" or "luoxisteven.github.io", including but not limited to their subdomains (e.g., api.xiluo.net, www.xiluo.net), all URL paths under such domains (e.g., `xiluo.net/*`, `www.xiluo.net/*`, `api.xiluo.net/*`, `luoxisteven.github.io/*`), and any associated services or content provided therein.
 
-This Privacy Policy explains how we collect, use, disclose, and protect your information when you visit xiluo.net. By accessing, browsing, or using any part of this Website, you acknowledge that you have read, understood, and agreed to be bound by [our Terms and Conditions](terms) and [this Privacy Policy](privacy). If you do not agree to our Terms and this Private Policy, you must immediately stop using this Website.
+This Privacy Policy explains how we collect, use, disclose, and protect your information when you visit our Websites. By accessing, browsing, or using any part of our Websites, you acknowledge that you have read, understood, and agreed to be bound by [our Terms and Conditions](terms) and [this Privacy Policy](privacy). If you do not agree to our Terms and this Privacy Policy, you must immediately stop using our Websites.
+
+For any questions, concerns, or inquiries regarding this Privacy Policy, our Terms and Conditions, or any other matters related to our Websites, please contact us at **steven@xiluo.net**.
 
 ## 1. Information We Collect
 We may collect the following types of information:
 
 ### a. Personal Information
-- Name, email address, or other contact information you provide when filling out forms or contacting us through this Website.
+- Name, email address, or other contact information you provide when filling out forms or contacting us through our Websites.
 
 ### b. Non-Personal Information
 - Browser type, IP address, operating system, and usage data such as pages visited and duration of visit.
@@ -22,17 +24,17 @@ We may collect the following types of information:
 
 ## 2. How We Use Your Information
 The information we collect may be used for the following purposes:
-- Operating, maintaining, and improving this Website.
+- Operating, maintaining, and improving our Websites.
 - Responding to your inquiries and providing customer support.
 - Sending updates, notifications, or other relevant information when you choose to receive communications.
-- Monitoring and analyzing this Website's performance and usage trends.
+- Monitoring and analyzing our Websites’ performance and usage trends.
 - Training and improving our chatbot services.
 - Optimizing user experience and providing personalized services.
 
 ## 3. Cookies and Tracking Technologies
-The Website may use cookies or similar technologies to enhance your experience. Cookies may collect non-personal information such as:
+Our Websites may use cookies or similar technologies to enhance your experience. Cookies may collect non-personal information such as:
 - Browser type and preference settings.
-- Pages visited and time spent on this Website.
+- Pages visited and time spent on our Websites.
 
 You can disable cookies by modifying your browser settings, but some features may not function properly.
 
@@ -56,7 +58,7 @@ Depending on your jurisdiction, you may have the following rights regarding your
 To exercise these rights, please contact us using the information provided below.
 
 ## 7. Third-Party Links
-The Website may contain links to third-party websites. We are not responsible for the privacy practices of these third parties. We recommend that you read their privacy policies when visiting these third-party websites.
+Our Websites may contain links to third-party websites. We are not responsible for the privacy practices of these third parties. We recommend that you read their privacy policies when visiting these third-party websites.
 
 ## 8. Chatbot Data Processing
 - The chatbot records your conversation content to provide services.
@@ -65,7 +67,7 @@ The Website may contain links to third-party websites. We are not responsible fo
 - You may request deletion of your chat history, though this may affect the degree of personalization in the service.
 
 ## 9. Updates to This Privacy Policy
-We reserve the right to update or modify this Privacy Policy at any time. Changes will be effective immediately upon posting to this Website. Your continued use of this Website constitutes acceptance of the updated Privacy Policy.
+We reserve the right to update or modify this Privacy Policy at any time. Changes will be effective immediately upon posting to our Websites. Your continued use of our Websites constitutes acceptance of the updated Privacy Policy.
 
 ## 10. Contact Us
 If you have any questions or concerns about this Privacy Policy or how we handle your information, please contact us:
