@@ -5,7 +5,7 @@
 
 Welcome to [**xiluo.net**](https://xiluo.net) and [**luoxisteven.github.io**](https://luoxisteven.github.io) (hereinafter referred to as "our Websites"). These Terms and Conditions ("Terms") govern your access to and use of our Websites. Our Websites are operated by **Xi Luo** ("we," "us," or "our").  "You", "your", or "the user" refers to any individual who accesses, browses, or uses our Websites in any manner.
 
-"xiluo.net", "luoxisteven.github.io", and "our Websites" refer to any website whose domain name includes "xiluo.net" or "luoxisteven.github.io", including but not limited to their subdomains (e.g., api.xiluo.net, www.xiluo.net), all URL paths under such domains (e.g., `xiluo.net/*`, `www.xiluo.net/*`, `api.xiluo.net/*`, `luoxisteven.github.io/*`), and any associated services or content provided therein.
+"xiluo.net", "luoxisteven.github.io", and "our Websites" refer to any website whose domain name includes "xiluo.net" or "luoxisteven.github.io", including but not limited to their subdomains (e.g., `api.xiluo.net`, `www.xiluo.net`), all URL paths under such domains (e.g., `xiluo.net/*`, `www.xiluo.net/*`, `api.xiluo.net/*`, `luoxisteven.github.io/*`), and any associated services or content provided therein.
 
 By accessing, browsing, or using any part of our Websites, you acknowledge that you have read, understood, and agreed to be bound by [these Terms and Conditions](terms) and [our Privacy Policy](privacy). If you do not agree to these Terms and Privacy Policy, you must immediately stop using our Websites.
 

@@ -2,7 +2,7 @@
 - **Effective Date**: 04 December 2024  
 - **Last Updated**: 28 Jun 2025
 
-Welcome to [**xiluo.net**](https://xiluo.net) and [**luoxisteven.github.io**](https://luoxisteven.github.io) (hereinafter referred to as "our Websites"). "xiluo.net", "luoxisteven.github.io", and "our Websites" refer to any website whose domain name includes "xiluo.net" or "luoxisteven.github.io", including but not limited to their subdomains (e.g., api.xiluo.net, www.xiluo.net), all URL paths under such domains (e.g., `xiluo.net/*`, `www.xiluo.net/*`, `api.xiluo.net/*`, `luoxisteven.github.io/*`), and any associated services or content provided therein.
+Welcome to [**xiluo.net**](https://xiluo.net) and [**luoxisteven.github.io**](https://luoxisteven.github.io) (hereinafter referred to as "our Websites"). "xiluo.net", "luoxisteven.github.io", and "our Websites" refer to any website whose domain name includes "xiluo.net" or "luoxisteven.github.io", including but not limited to their subdomains (e.g., `api.xiluo.net`, `www.xiluo.net`), all URL paths under such domains (e.g., `xiluo.net/*`, `www.xiluo.net/*`, `api.xiluo.net/*`, `luoxisteven.github.io/*`), and any associated services or content provided therein.
 
 This Privacy Policy explains how we collect, use, disclose, and protect your information when you visit our Websites. By accessing, browsing, or using any part of our Websites, you acknowledge that you have read, understood, and agreed to be bound by [our Terms and Conditions](terms) and [this Privacy Policy](privacy). If you do not agree to our Terms and this Privacy Policy, you must immediately stop using our Websites.
 
