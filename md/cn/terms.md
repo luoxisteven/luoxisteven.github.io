@@ -3,7 +3,7 @@
 - **生效日期**：2024年12月4日  
 - **最后更新日期**：2025年6月28日  
 
-欢迎访问 [**xiluo.net**](https://xiluo.net) 和 [**luoxisteven.github.io**](luoxisteven.github.io)（下称“我们网站”）。本《条款与条件》（“条款”）适用于您访问和使用我们网站。网站由 **Xi Luo** 运营（以下称为“我们”）。“您”、“您的”或“用户”是指以任何方式访问、浏览或使用我们网站的任何个人。
+欢迎访问 [**xiluo.net**](https://xiluo.net) 和 [**luoxisteven.github.io**](https://luoxisteven.github.io)（下称“我们网站”）。本《条款与条件》（“条款”）适用于您访问和使用我们网站。网站由 **Xi Luo** 运营（以下称为“我们”）。“您”、“您的”或“用户”是指以任何方式访问、浏览或使用我们网站的任何个人。
 
 "xiluo.net"、"luoxisteven.github.io"以及"我们网站"是指域名包含"xiluo.net"或"luoxisteven.github.io"的任何网站，包括但不限于其子域名（如：`api.xiluo.net`、`www.xiluo.net`），此类域名下的所有URL路径（如：`xiluo.net/*`、`www.xiluo.net/*`、`api.xiluo.net/*`、`luoxisteven.github.io/*`），以及其中提供的任何相关服务或内容。
 
