@@ -19,5 +19,5 @@
 - **Hobbies:** All kinds of sports (British Football ⚽️, Gym 🏋️, Skiing 🎿, Bicycle 🚴, 5KM Long Run 🏃), Video Games 🎮 (I’m more of a cloud gamer who prefers watching video game broadcasts while multitasking rather than playing games myself.)
 
 <p style="text-align: right;">
-    <a href="/profile" style="font-weight: bold;">> Learn more in my Profile</a>
+    <a href="/blogs" style="font-weight: bold;">> Learn more in my Blogs</a>
 </p>

@@ -20,6 +20,6 @@
 - **兴趣爱好：** 各种体育运动（英式足球 ⚽️、健身 🏋️、滑雪 🎿、骑自行车 🚴、5公里长跑 🏃）、电子游戏 🎮（我很少亲自玩游戏，更多的是一名云玩家）。
 
 <p style="text-align: right;">
-    <a href="/profile" style="font-weight: bold;">> 详情请移步个人简介</a>
+    <a href="/blogs" style="font-weight: bold;">> 详情请移步博客</a>
 </p>
 
