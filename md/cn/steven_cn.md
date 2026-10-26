@@ -7,7 +7,7 @@
 - **商务邮箱：** [**steven@xiluo.net**](mailto:steven@xiluo.net)
 - **个人网站：** [**xiluo.net**](https://xiluo.net)
 - **GitHub账号：** [**@luoxisteven**](https://github.com/luoxisteven)  
-- **永久镜像：** [**cfpages.xiluo.net**](https://cfpages.xiluo.net)
+- **永久镜像：** [**cfpages.xiluo.net**](https://cfpages.xiluo.net) & [**luoxisteven.github.io**](https://luoxisteven.github.io)
 <!-- - **LinkedIn：** [**@Xi Luo**](https://www.linkedin.com/in/xi-luo-6259a1208/) -->
 
 ### 技术栈&兴趣爱好
