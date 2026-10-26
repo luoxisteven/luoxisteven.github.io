@@ -6,7 +6,7 @@
 - **Business Email:** [**steven@xiluo.net**](mailto:steven@xiluo.net)
 - **Personal Website:** [**xiluo.net**](https://xiluo.net)  
 - **Github Account:** [**@luoxisteven**](https://github.com/luoxisteven)  
-- **Permanent Mirror：** [**cfpages.xiluo.net**](https://cfpages.xiluo.net) & [**luoxisteven.github.io**](https://luoxisteven.github.io)
+- **Permanent Mirror:** [**cfpages.xiluo.net**](https://cfpages.xiluo.net) & [**luoxisteven.github.io**](https://luoxisteven.github.io)
 <!-- - **Linkedin:** [**@Xi Luo**](https://www.linkedin.com/in/xi-luo-6259a1208/) -->
 
 ### About me
