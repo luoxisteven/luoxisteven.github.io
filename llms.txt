@@ -1,0 +1,28 @@
+# xiluo.net — Steven Luo (Xi Luo)
+
+> Personal website of Steven Luo (Xi Luo), a Sydney-based full-stack developer and former machine-learning engineer. The site hosts his profile, blogs, learning notes, projects, a finance dashboard, and a personal AI chatbot. Content is bilingual (English and Chinese) and the site is built with React 18 on the frontend and .NET 8 on the backend.
+
+Steven Luo can be contacted at steven@xiluo.net. A static mirror of the site is available at https://luoxisteven.github.io.
+
+## Main Pages
+
+- [Home](https://xiluo.net/): Introduction and overview of Steven Luo, with links to all site sections
+- [Profile](https://xiluo.net/profile): Background, skills, and experience
+- [Blogs](https://xiluo.net/blogs): Blog posts on technology and personal topics; individual posts live at /blog/{id}
+- [Notes](https://xiluo.net/notes): Learning notes on machine learning, software engineering, and related topics, in English (/notes-en/) and Chinese (/notes-cn/)
+- [Projects](https://xiluo.net/projects): Portfolio of personal and professional projects
+
+## Interactive Features
+
+- [Chatbot](https://xiluo.net/chatbot): AI chatbot that answers questions about Steven Luo
+- [Finance](https://xiluo.net/fin): Stock market dashboard with per-ticker pages at /fin/ticker/{symbol}
+
+## For AI Agents
+
+- [Public MCP endpoint](https://api.xiluo.net/steven-luo-mcp/public): Model Context Protocol server (HTTP transport) exposing public information about Steven Luo; connect with `claude mcp add --transport http steven-luo-chatbot https://api.xiluo.net/steven-luo-mcp/public`
+
+## Optional
+
+- [Learning Notes source](https://github.com/luoxisteven/Learning-Notes): Raw markdown files behind the Notes section
+- [Website source code](https://github.com/luoxisteven/Personal-Website): Full source of this website (React 18 + .NET 8 + MongoDB)
+- [Sitemap](https://xiluo.net/sitemap.xml): XML sitemap of indexable pages

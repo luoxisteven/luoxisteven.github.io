@@ -1,7 +1,7 @@
 # Terms and Conditions  
 
 - **Effective Date**: 04 December 2024  
-- **Last Updated**: 28 Jun 2025  
+- **Last Updated**: 11 Oct 2025  
 
 Welcome to [**xiluo.net**](https://xiluo.net) and [**luoxisteven.github.io**](https://luoxisteven.github.io) (hereinafter referred to as "our Websites"). These Terms and Conditions ("Terms") govern your access to and use of our Websites. Our Websites are operated by **Xi Luo** ("we," "us," or "our").  "You", "your", or "the user" refers to any individual who accesses, browses, or uses our Websites in any manner.
 
@@ -95,39 +95,48 @@ For any questions, concerns, or inquiries regarding these Terms and Conditions, 
   - Be used to collect website usage data to improve user experience  
 - AI-generated content may contain errors or biases and does not represent the views of our Websites or **Xi Luo**. You should independently verify the accuracy of critical information.
 - **Xi Luo** and our Websites disclaim any liability for losses or damages incurred as a result of reliance on information provided by the chatbot.
-- We reserve the right to modify, upgrade, or terminate the chatbot service without prior notice.  
+- We reserve the right to modify, upgrade, or terminate the chatbot service without prior notice. 
 
-## 12. Modifications to Terms  
+## 12. Donation Service
+- Our website may offer a voluntary donation feature through third-party payment services (such as Buy Me a Coffee, Stripe) to support the website’s regular operations, content creation, and maintenance costs.
+- When making a donation, you agree to comply with this third-party payment platform’s Terms and Privacy Policy.
+- We are not responsible for the continuity, availability, security, errors, or policy changes of any third-party payment services.
+- Your donations are entirely voluntary and do not constitute the purchase of any goods, services, or commercial transactions of any kind.
+- Due to the voluntary and non-commercial nature of donations, all confirmed donations are non-refundable, unless otherwise required by applicable law.
+- Donations do not grant donors any ownership, decision-making rights, returns, or entitlement to any future revenue of the website.
+- Donations are made voluntarily and do not constitute charitable contributions or tax-deductible donations.
+
+## 13. Modifications to Terms  
 - We reserve the right to update or modify these Terms at any time without prior notice.  
 - Changes will be effective immediately upon posting to our Websites.  
 - We are not obligated to notify you of any changes individually. It is your responsibility to review this page periodically.  
 - Your continued use of our Websites following the posting of revised Terms means that you accept and agree to the changes.  
 - We recommend that you review these Terms regularly to stay informed of any changes.
 
-## 13. Termination  
+## 14. Termination  
 - If you violate these Terms, we reserve the right to terminate or suspend your access to our Websites at any time, without notice.  
 - Even after your access is terminated, the provisions of these Terms relating to intellectual property, disclaimers, limitations of liability, and governing law will remain in effect.  
 
-## 14. Governing Law  
+## 15. Governing Law  
 - These Terms shall be governed by and construed in accordance with the laws of **New South Wales, Australia**.  
 - Any dispute arising from these Terms shall be subject to the exclusive jurisdiction of the courts of **New South Wales, Australia**.  
 - If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.  
 
-## 15. User Accounts  
+## 16. User Accounts  
 - If our Websites offer user registration functionality, you are responsible for safeguarding your account information and for all activities that occur under your account.  
 - You agree to provide accurate and complete registration information and to update such information promptly if it changes.  
 - You agree to notify us immediately of any unauthorized use of your account or other breach of security.
 - We reserve the right to refuse service, terminate accounts, or remove or edit content at our sole discretion.  
 
-## 16. International Users  
+## 17. International Users  
 - Our Websites are primarily intended for the users in Australia but may be accessed by users around the world.  
 - You agree to comply with all applicable local, national, and international laws and regulations.  
 - If the laws of your jurisdiction prohibit you from using our Websites, please do not access them.  
 
-## 17. Entire Agreement  
+## 18. Entire Agreement  
 - These Terms constitute the entire agreement between you and **Xi Luo** regarding your use of our Websites, superseding any prior or contemporaneous understandings, agreements, representations, and warranties.  
 - Our failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision.  
 - A Chinese translation of these Terms may be provided for reference. In case of discrepancies, the English version shall prevail.  
 
-## 18. Contact Us  
+## 19. Contact Us  
 For any questions, concerns, or inquiries regarding these Terms and Conditions, our Privacy Policy, or any other matters related to our Websites, please contact us at **steven@xiluo.net**.
